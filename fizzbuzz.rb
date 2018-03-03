@@ -1,5 +1,5 @@
-def fizzbuzz(number)
-  if  number % 3 == 0 && number % 5 == 0 
+
+  if  fizz_5
     "FizzBuzz"
   elseif number % 3 == 0
     "Fizz"
@@ -8,5 +8,3 @@ def fizzbuzz(number)
   else
     "Nil"
   end
-
-end
